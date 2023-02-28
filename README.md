@@ -1,2 +1,2 @@
 # MiniProject 1 - House Pricing Evaluation
-This project using DecisionTree to evaluate the house price in USA
+This project use DecisionTree to evaluate the house price in USA
