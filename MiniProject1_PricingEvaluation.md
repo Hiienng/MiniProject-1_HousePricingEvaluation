@@ -1,4 +1,4 @@
-# Project 1 - Housing Prices Evaluations
+# Project 1 - Housing Prices Evaluation
 
 - Method: DecisionTree + RandomForest
 - Reference to: https://www.youtube.com/watch?v=wujyckteVYM&t=213s
